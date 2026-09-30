@@ -37,9 +37,7 @@ habit-tracker
 ## How to Set Up and Run
 
 1. check Python is installed: python --version
-2. Clone this repository:git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
-
+2. Clone this repository:git clone https://github.com/vaishnavi26mib10070-pixel/habit-tracker.git
 3. Install matplotlib: python -m pip install matplotlib
 4. Run the Program: python main.py
 
